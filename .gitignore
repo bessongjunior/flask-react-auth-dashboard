@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#env
+flask-api/env
+#node modules
+react-ui/node_modules
